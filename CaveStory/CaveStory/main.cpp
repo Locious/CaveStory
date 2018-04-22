@@ -1,7 +1,10 @@
+/* Main.cpp
+ * The entry point of the program
+ */
+
 #include "game.h"
-#include <iostream>
-int main(int argc, char * argv[])
-{
+
+int main(int argc, const char* argv[]) {
 	Game game;
 	return 0;
 }

@@ -4,8 +4,10 @@
     "\\CaveStory",
     "\\CaveStory\\CaveStory",
     "\\CaveStory\\CaveStory\\Content",
-    "\\CaveStory\\CaveStory\\Content\\Sprites"
+    "\\CaveStory\\CaveStory\\Content\\Backgrounds",
+    "\\CaveStory\\CaveStory\\Content\\Maps",
+    "\\CaveStory\\CaveStory\\Content\\Sprites",
+    "\\CaveStory\\CaveStory\\Content\\TileSets"
   ],
-  "SelectedNode": "\\CaveStory\\CaveStory\\game.cpp",
   "PreviewInSolutionExplorer": false
 }

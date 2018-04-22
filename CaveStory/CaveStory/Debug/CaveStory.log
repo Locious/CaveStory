@@ -1,1 +1,6 @@
-﻿  CaveStory.vcxproj -> C:\Users\RBrow\OneDrive\Desktop\CaveStory\CaveStory\Debug\CaveStory.exe
+﻿  level.cpp
+c:\users\rbrow\onedrive\desktop\cavestory\cavestory\cavestory\tile.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\rbrow\onedrive\desktop\cavestory\cavestory\cavestory\level.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\rbrow\onedrive\desktop\cavestory\cavestory\cavestory\level.cpp(57): warning C4101: 'path': unreferenced local variable
+c:\users\rbrow\onedrive\desktop\cavestory\cavestory\cavestory\level.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  CaveStory.vcxproj -> C:\Users\RBrow\OneDrive\Desktop\CaveStory\CaveStory\Debug\CaveStory.exe

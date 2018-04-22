@@ -2,7 +2,7 @@
 #include "graphics.h"
 
 namespace player_constants {
-	const float RUN_SPEED = 0.2f;
+	const float WALK_SPEED = 0.2f;
 }
 
 Player::Player() {}
@@ -26,13 +26,13 @@ void Player::setupAnimations() {
 void Player::animationDone(std::string currentAnimation) {}
 
 void Player::moveLeft() {
-	this->_dx = -player_constants::RUN_SPEED;
+	this->_dx = -player_constants::WALK_SPEED;
 	this->playAnimation("RunLeft");
 	this->_facing = LEFT;
 }
 
 void Player::moveRight() {
-	this->_dx = player_constants::RUN_SPEED;
+	this->_dx = player_constants::WALK_SPEED;
 	this->playAnimation("RunRight");
 	this->_facing = RIGHT;
 }
